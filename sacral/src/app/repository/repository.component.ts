@@ -1,10 +1,1 @@
-import { Component } from '@angular/core';
-
-@Component({
-  selector: 'app-repository',
-  templateUrl: './repository.component.html',
-  styleUrls: ['./repository.component.css']
-})
-export class RepositoryComponent {
-
-}
+﻿{"error":"The server had an error while processing your request. Sorry about that!"}
